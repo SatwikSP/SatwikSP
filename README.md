@@ -18,23 +18,23 @@ linux ubuntu alpine centOS
 
 Database Stack:
 --------------
-mysql postgresql cassandra couchbase
+mysql postgresql dynamodb rds db2 
 
 Dev Stack:
 ---------
-maven sbt kafka elasticsearch
+maven kafka elasticsearch
 
 DevOps Stack:
 ------------
-aws gcp ansible terraform jenkins circleci codeship bamboo docker harbor kubernetes harbor traefik nginx logstash kibana promethues graphite grafana
+aws gcp ansible terraform jenkins circleci docker kubernetes nginx logstash kibana promethues grafana dynatrace 
 
 Project Management Stack:
 -------------------------
-git github bitbucket jira trello
+git github jira confluence 
 
 Editor / IDE:
 -------------
-sublime intellij vs-code
+intellij vs-code
 
 <!--
 **SatwikSP/SatwikSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
