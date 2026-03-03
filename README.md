@@ -1,27 +1,39 @@
 ## Hi there 👋
 
+Here is a quick summary of my tech stack:
+-----------------------------------------
+
 Languages and Tools:
+--------------------
 I work on DevOps, Microservices, containers, and everything around it.
-I’m looking to collaborate on Cloud-native Projects
-Programming Language Stack
+I’m looking to work on Cloud-native/agnostic Projects in roles which are in Architecture, Engineering, FinOps, AIOps, MLOps, AI-Native programming, etc
+
+Programming Language Stack:
+--------------------------
 bash python groovy java go
 
-OS Stack
+OS Stack:
+--------
 linux ubuntu alpine centOS
 
-Database Stack
+Database Stack:
+--------------
 mysql postgresql cassandra couchbase
 
-Dev Stack
+Dev Stack:
+---------
 maven sbt kafka elasticsearch
 
-DevOps Stack
+DevOps Stack:
+------------
 aws gcp ansible terraform jenkins circleci codeship bamboo docker harbor kubernetes harbor traefik nginx logstash kibana promethues graphite grafana
 
-Project Management Stack
+Project Management Stack:
+-------------------------
 git github bitbucket jira trello
 
-Editor / IDE I ♥
+Editor / IDE:
+-------------
 sublime intellij vs-code
 
 <!--
